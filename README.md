@@ -1,2 +1,2 @@
-# programacion1
+# programacion-uc
 Ejercicios de Algoritmos y programación en C++
